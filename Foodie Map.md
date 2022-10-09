@@ -16,9 +16,9 @@
 
 >__Recommended Cuisines__: duck breast, Agave nectar cheesecake
 
->__Personal Notes__: Walk in or book through website, especially booking for dinner is needed. The booking for dinner needs 
+>__Personal Notes__: Walk in or book through website, especially booking for dinner is needed. You need to pre-pay 50AUD per person for booking.
 
-## [Chinger Biang Biang Noodle](https://www.zomato.com/melbourne/chinger-biang-biang-noodle-carlton)
+## [秦哥biangbiang面 Chinger Biang Biang Noodle](https://www.zomato.com/melbourne/chinger-biang-biang-noodle-carlton)
 >__Category__: Chinese food, noodles
 
 >__Recommendation Reasons__: chewy noodles, traditional Shangxi Noodle(including Lamb Pao-mo soup, fried noodles, and dumplings)
@@ -36,5 +36,14 @@
 >__Recommended Cuisines__: Milano pasta, tuscan chicken, chicken schinitzel, the universal platter. (I personally prefer American pizza so I don't make any recommendation here)
 
 >__Personal Notes__: They don't accept any booking. So arrive the restaurant before 5:30pm if you don't like to wait. One thing that I am not satisfied is that they remove the chicken schinitzel from the delivery menu :(
+
+## [丰衣粥食 Wu Mi Zhou](https://www.zomato.com/melbourne/wu-mi-zhou-cbd/photos)
+>__Category__: cantonese food, hotpot
+
+>__Recommendation Reasons__: They provide different types of [顺德（Shunde)](https://zh.m.wikipedia.org/zh-cn/%E9%A0%86%E5%BE%B7%E8%8F%9C) food. They care about the freshness and an umani taste of food. They have a specifial type of hotpot that uses the rice porridge to boil food. 
+
+>__Recommended Cuisines__: the chicken and abalone hotpot, double skin milk
+
+>__Personal Notes__: When I was in Shenzhen, I had a foodie travel around Shunde and ate as much food as I can. I would say this restaurant reminds me of the beautifuly memory of that trip. I personally really recommend this restaurant if you have never had Shunde food and rice porridge hotpot before.
 
 
