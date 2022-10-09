@@ -19,7 +19,7 @@
 >__Personal Notes__: Walk in or book through website, especially booking for dinner is needed. The booking for dinner needs 
 
 ## [Chinger Biang Biang Noodle](https://www.zomato.com/melbourne/chinger-biang-biang-noodle-carlton)
->__Category__: handmade noodles from Shangxi Province in China
+>__Category__: Chinese food, noodles
 
 >__Recommendation Reasons__: chewy noodles, traditional Shangxi Noodle(including Lamb Pao-mo soup, fried noodles, and dumplings)
 
