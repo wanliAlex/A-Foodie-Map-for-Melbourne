@@ -44,7 +44,7 @@
 
 >__Recommended Cuisines__: the chicken and abalone hotpot, double skin milk
 
->__Personal Notes__: When I was in Shenzhen, I had a foodie travel around Shunde and ate as much food as I can. I would say this restaurant reminds me of the beautiful memory. I personally really recommend this restaurant if you have never had Shunde food and rice porridge hotpot before.
+>__Personal Notes__: When I was in Shenzhen, I had a foodie travel around Shunde and ate as much food as I can. I would say this restaurant reminds me of the beautiful memory. I personally really recommend this restaurant if you have never had Shunde food or rice porridge hotpot before.
 
 ## [寻鱼炭烤 (Roast Fish Bar)](https://roastfishbar.com.au/)
 >__Category__: Chinese food, Sichuan food, roast fish
