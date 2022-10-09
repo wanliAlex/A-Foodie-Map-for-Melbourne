@@ -26,4 +26,4 @@
 
 ## Contributions:
 
-> Any contribution is welcomed! Feel free to submit a pull request and include your best restaurant. Please see [restaurant format](restaurant format.md) for contribution format
+> Any contribution is welcomed! Feel free to submit a pull request and include your best restaurant. Please see [restaurant format]([restaurant format.md](https://github.com/wanliAlex/A-Foodie-Map-for-Melbourne/blob/main/restaurant%20fomat.md)) for contribution format
