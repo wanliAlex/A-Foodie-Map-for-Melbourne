@@ -8,7 +8,7 @@
 > The reason that I am creating this repository is that my Romanian tennis coach asked to recommend some Chinese restaurants in Melbourne one day. So I think it might be a good idea to use this repo to share the good restaurants (not only Chinese but mainly Chinese food) that I know in Melbourne.
 
 
-## Who I am?
+## Who am I?
 > I am currently a Ph.D. student in [The University Of Melbourne](https://www.unimelb.edu.au/). I was born in [Nanchang, Jiangxi, China](https://en.wikipedia.org/wiki/Nanchang) and stayed in my hometown before 18-years-old. Then I went to [Chengdu, Sichuan, China](https://en.wikipedia.org/wiki/Chengdu) and studied in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) for 4 years. I came to Melbourne for my master's degree since July 2016 and have staying here since then. I also stayed in [Shenzhen, Guangdong, China](https://en.wikipedia.org/wiki/Shenzhen) between August and November in 2018 when I was waitintg for my Ph.D. application result.
 
 ## What kind of food do I like?
