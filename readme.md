@@ -1,3 +1,3 @@
-# A Food Die Map for Melbourne from A Chinese
+# A Food Die Map for Melbourne From A Chinese
 
 [![Stars](https://img.shields.io/github/stars/A-Foodie-Map-for-Melbourne/run?style=flat-square)](https://star-history.com/#A-Foodie-Map-for-Melbourne/run&Date)
