@@ -55,3 +55,22 @@
 
 >__Personal Notes__: The grilled fish is really authentic and is a __MUST__ eat. The restaurant is in Caufield which take 30 mins drive from city. It is also very close to the tram station.
 
+## [玫瑰苑烧腊饭店(Rose garden BBQ)](https://www.zomato.com/melbourne/rose-garden-bbq-1-cbd)
+>__Category__: Chinese food, Tranditional Cantonese BBQ
+
+>__Recommendation Reasons__: a good choice for casual dining and authentic Cantonese cuisine
+
+>__Recommended Cuisines__:BBQ pork omelette on rice, fried rice with shredded duck and preserved vegetables, spicy green beans with minced chicken on rice
+
+>__Personal Notes__: Walk in. Recommended Cash, otherwise the surchage is expensive. Although the food is delicious, the price rised too much.
+
+## [锦州御烧烤（Jinzhou BBQ）](https://www.zomato.com/melbourne/jinzhou-bbq-1-cbd)
+>__Category__: Chinese food, Northeast food, Charcoal BBQ
+
+>__Recommendation Reasons__: BBQ in Northeast of China is very popular and this is the best one in Melbourne.
+
+>__Recommended Cuisines__: almost all the kebab in the menu; Chinese chives pancake
+
+>__Personal Notes__: Recommended book through phone in advance, because there are only 7 tables. The service is not good and the waiting time is long(because they roasted food by Charcoal). BBQ in China varies in different province. If you are interested in it, I strongly recommonded a documentary about it [Season 1](https://www.youtube.com/watch?v=6_AWmwa7ndw&list=PLYtPMuzSwKq5SzsLo7ZZVnvQ61DuI6VeZ)
+[Season 2](https://www.youtube.com/watch?v=Pp-XdlscUXU&list=PLYtPMuzSwKq6yzIBL3CGRBfY-U62HrrsH)
+[Season 3](https://www.youtube.com/watch?v=jD7JxmSlBx0&list=PLmah6lIUDTTjOT9yYnYKTTJafUYAVfDW-)
