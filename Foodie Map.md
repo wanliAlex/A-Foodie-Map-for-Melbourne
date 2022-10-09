@@ -67,11 +67,10 @@
 ## [锦州御烧烤（Jinzhou BBQ）](https://www.zomato.com/melbourne/jinzhou-bbq-1-cbd)
 >__Category__: Chinese food, Northeast food, Charcoal BBQ
 
->__Recommendation Reasons__: BBQ in Northeast of China is very popular and this is the best one in Melbourne. BBQ in China varies in different province. If you are interested in it, I strongly recommonded a documentary about it：
-season 1: https://www.youtube.com/watch?v=6_AWmwa7ndw&list=PLYtPMuzSwKq5SzsLo7ZZVnvQ61DuI6VeZ
-season 2: https://www.youtube.com/watch?v=Pp-XdlscUXU&list=PLYtPMuzSwKq6yzIBL3CGRBfY-U62HrrsH
-season 3: https://www.youtube.com/watch?v=jD7JxmSlBx0&list=PLmah6lIUDTTjOT9yYnYKTTJafUYAVfDW-
+>__Recommendation Reasons__: BBQ in Northeast of China is very popular and this is the best one in Melbourne.
 
 >__Recommended Cuisines__: almost all the kebab in the menu; Chinese chives pancake
 
->__Personal Notes__: Recommended book through phone in advance, because there are only 7 tables. The service is not good and the waiting time is long(because they roasted food by Charcoal).
+>__Personal Notes__: Recommended book through phone in advance, because there are only 7 tables. The service is not good and the waiting time is long(because they roasted food by Charcoal). BBQ in China varies in different province. If you are interested in it, I strongly recommonded a documentary about it [Season 1](https://www.youtube.com/watch?v=6_AWmwa7ndw&list=PLYtPMuzSwKq5SzsLo7ZZVnvQ61DuI6VeZ)
+[Season 2](https://www.youtube.com/watch?v=Pp-XdlscUXU&list=PLYtPMuzSwKq6yzIBL3CGRBfY-U62HrrsH)
+[Season 3](https://www.youtube.com/watch?v=jD7JxmSlBx0&list=PLmah6lIUDTTjOT9yYnYKTTJafUYAVfDW-)
