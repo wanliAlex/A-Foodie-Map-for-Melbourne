@@ -1,4 +1,4 @@
-#The Foodie Map
+# The Foodie Map
 
 ## [Kokoro Sushi](https://www.kokorosushi.com.au/)
 >category: Japanese food, Conveyor belt sushi
