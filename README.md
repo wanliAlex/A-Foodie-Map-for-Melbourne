@@ -1,11 +1,11 @@
-# A Foodie Map for Melbourne From A Chinese Perspective
+# A Foodie Map for Melbourne
 
 [![Stars](https://img.shields.io/github/stars/wanliAlex/A-Foodie-Map-for-Melbourne)](https://star-history.com/#wanliAlex/A-Foodie-Map-for-Melbourne&Date)
 
 ## Why do I create this repository?
 
 
-> The reason that I am creating this repository is that my Romanian tennis coach asks me the best Chinese food in Melbourne one day. So I think it might be a good idea to use this repo to share the good restaurants (not only Chinese but mainly Chinese food) that I know in Melbourne.
+> The reason that I am creating this repository is that my Romanian tennis coach asked to recommend some Chinese restaurants in Melbourne one day. So I think it might be a good idea to use this repo to share the good restaurants (not only Chinese but mainly Chinese food) that I know in Melbourne.
 
 
 ## Who I am?
