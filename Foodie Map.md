@@ -7,5 +7,5 @@
 
 >__Recommended Cuisines__: Yuzu sorbet, all sashimi, karaage, sushi
 
->__Personal Notes__: You must book through phone before visiting. Please use google map to find the number. [An alternative one](https://www.kokorosushi.com.au/) is in Brighton, but I would recommend the Camberwell one. 
+>__Personal Notes__: You must book through phone before visiting. Please use google map to find the number. [An alternative one](https://www.kokorosushi.com.au/) is in Brighton, but I would recommend the Camberwell one.
 
