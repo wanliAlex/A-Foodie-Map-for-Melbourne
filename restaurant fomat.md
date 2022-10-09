@@ -1,8 +1,8 @@
 ## [restaurant name](restaurant link)
->category:
+>__Category__:
 
->Recommendation Reasons:
+>__Recommendation Reasons__:
 
->Recommended Cuisines: 
+>__Recommended Cuisines__: 
 
->Personal Notes:
+>__Personal Notes__:
