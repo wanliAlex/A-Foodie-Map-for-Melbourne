@@ -1,4 +1,4 @@
-# A Foodie Map for Melbourne From A Chinese Perspective
+# A Foodie Map for Melbourne
 
 [![Stars](https://img.shields.io/github/stars/wanliAlex/A-Foodie-Map-for-Melbourne)](https://star-history.com/#wanliAlex/A-Foodie-Map-for-Melbourne&Date)
 
