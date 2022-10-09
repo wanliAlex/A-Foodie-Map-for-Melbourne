@@ -24,6 +24,6 @@
 ## Here come the restaurants!
 - [A Foodie Map for Melbourne](https://github.com/wanliAlex/A-Foodie-Map-for-Melbourne/blob/main/Foodie%20Map.md)
 
-## Contributions:
+## Contributions
 
 > Any contribution is welcomed! Feel free to submit a pull request and include your best restaurant. Please see [restaurant format](https://github.com/wanliAlex/A-Foodie-Map-for-Melbourne/blob/main/restaurant%20fomat.md) for contribution format
