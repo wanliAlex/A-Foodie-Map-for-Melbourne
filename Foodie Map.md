@@ -46,4 +46,12 @@
 
 >__Personal Notes__: When I was in Shenzhen, I had a foodie travel around Shunde and ate as much food as I can. I would say this restaurant reminds me of the beautifuly memory of that trip. I personally really recommend this restaurant if you have never had Shunde food and rice porridge hotpot before.
 
+## [寻鱼炭烤 (Roast Fish Bar)](https://roastfishbar.com.au/)
+>__Category__: Chinese food, Sichuan food, roast fish
+
+>__Recommendation Reasons__: This might be the best grilled fish restaurant in Melbourne. It reminds of the roast fish I had when I was in Chengdu. The Sichuan cusines here are also very authentic and delicious.
+
+>__Recommended Cuisines__: Szechuan Style Crispy Duck, Charcoal Grilled Fish
+
+>__Personal Notes__: The grilled fish is really authentic and is a __MUST__ eat. The restaurant is in Caufield which take 30 mins drive from city. It is also very close to the tram station.
 
