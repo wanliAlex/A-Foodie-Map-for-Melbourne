@@ -22,4 +22,4 @@
 > I will not give a quantified rate like 1 to 5 for the restaurants because it is really hard to quantify a flavor. If you want to know how much I like these restaurants, I would say I prefer to drive an hour to these restaurants than to go to the restaurant in 5 minutes walk.
 
 ## Here come the restaurants!
-- [A Foodie Map for Melbourne](Foodie Map.md)
+- [A Foodie Map for Melbourne](https://github.com/wanliAlex/A-Foodie-Map-for-Melbourne/blob/main/Foodie%20Map.md)
