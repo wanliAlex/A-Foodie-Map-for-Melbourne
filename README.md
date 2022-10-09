@@ -1,6 +1,6 @@
 # A Foodie Map for Melbourne From A Chinese Perspective
 
-[![Stars](https://img.shields.io/github/stars/wanliAlex/A-Foodie-Map-for-Melbourne/run?style=flat-square)](https://star-history.com/#A-Foodie-Map-for-Melbourne/run&Date)
+[![Stars](https://img.shields.io/github/stars/wanliAlex/A-Foodie-Map-for-Melbourne/run?style=flat-square)](https://star-history.com/#wanliAlex/A-Foodie-Map-for-Melbourne/run&Date)
 
 ## Why do I create this repository?
 
