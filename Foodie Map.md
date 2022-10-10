@@ -74,3 +74,13 @@
 >__Personal Notes__: Recommended book through phone in advance, because there are only 7 tables. The service is not good and the waiting time is long(because they roasted food by Charcoal). BBQ in China varies in different province. If you are interested in it, I strongly recommonded a documentary about it [Season 1](https://www.youtube.com/watch?v=6_AWmwa7ndw&list=PLYtPMuzSwKq5SzsLo7ZZVnvQ61DuI6VeZ)
 [Season 2](https://www.youtube.com/watch?v=Pp-XdlscUXU&list=PLYtPMuzSwKq6yzIBL3CGRBfY-U62HrrsH)
 [Season 3](https://www.youtube.com/watch?v=jD7JxmSlBx0&list=PLmah6lIUDTTjOT9yYnYKTTJafUYAVfDW-)
+
+## [湘遇湖南菜(Taste Hunan)](https://www.zomato.com/melbourne/taste-hunan-1-cbd)
+>__Category__: Chinese food, Hunan Food
+
+>__Recommended Cuisines__: [湖南(Hunan) cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) is also famous for its spicy taste. This one is the best Hunan restaurant compared with other alternatives in the CBD.
+
+>__Recommend Cuisines__: almost everything
+
+>__Personal Notes__: My mother is from Hunan province so I actually had a lot of Hunan cuisines during my childhood. This one is very authentic and delicious if you like the taste.
+
