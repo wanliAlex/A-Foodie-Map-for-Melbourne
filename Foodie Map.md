@@ -38,7 +38,7 @@
 >__Personal Notes__: They don't accept any booking. So arrive the restaurant before 5:30pm if you don't like to wait. One thing that I am not satisfied is that they remove the chicken schinitzel from the delivery menu :(
 
 ## [丰衣粥食 (Wu Mi Zhou)](https://www.zomato.com/melbourne/wu-mi-zhou-cbd/photos)
->__Category__: Cantonese food, hotpot
+>__Category__: Chinese food, Cantonese food, hotpot
 
 >__Recommendation Reasons__: They provide different types of [顺德（Shunde)](https://zh.m.wikipedia.org/zh-cn/%E9%A0%86%E5%BE%B7%E8%8F%9C) food. They care about the freshness and an umani taste of food. They have a specifial type of hotpot that uses the rice porridge to boil food. 
 
@@ -78,9 +78,18 @@
 ## [湘遇湖南菜(Taste Hunan)](https://www.zomato.com/melbourne/taste-hunan-1-cbd)
 >__Category__: Chinese food, Hunan Food
 
->__Recommended Cuisines__: [湖南(Hunan) cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) is also famous for its spicy taste. This one is the best Hunan restaurant compared with other alternatives in the CBD.
+>__Recommendation Reasons__: [湖南(Hunan) cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) is also famous for its spicy taste. This one is the best Hunan restaurant compared with other alternatives in the CBD.
 
->__Recommend Cuisines__: almost everything
+>__Recommended Cuisines__: almost everything
 
 >__Personal Notes__: My mother is from Hunan province so I actually had a lot of Hunan cuisines during my childhood. This one is very authentic and delicious if you like the taste.
+
+## [国利酒家(Lin Nan Restaurant)](https://www.zomato.com/melbourne/ling-nan-1-cbd)
+>__Category__: Chinese food, Cantonese food
+
+>__Recommendation Reasons__: Very good Cantonese food. Price is also good.
+
+>__Recommended Cuisines__: almost everything
+
+>__Personal Notes__: a very good restaurant and everyone is friendly here. It was closed during the COVID-19 and luckily we have it back :)
 
